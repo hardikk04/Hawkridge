@@ -731,6 +731,7 @@ nav {
   font-size: 1vw;
   font-weight: 500;
   margin-top: 3vw;
+  color: #fff;
 }
 
 .contact {
@@ -746,6 +747,7 @@ nav {
   padding: 0.8vw;
   font-size: 1vw;
   font-weight: 500;
+  color: #fff;
 }
 
 .contact > input:nth-child(2) {
@@ -755,6 +757,7 @@ nav {
   padding: 0.8vw;
   font-size: 1vw;
   font-weight: 500;
+  color: #fff;
 }
 
 .page7-right > input:nth-child(6) {
@@ -765,6 +768,7 @@ nav {
   font-size: 1vw;
   font-weight: 500;
   margin-top: 1vw;
+  color: #fff;
 }
 
 .page7-right > input:nth-child(7) {
@@ -776,6 +780,7 @@ nav {
   font-size: 1vw;
   font-weight: 500;
   margin-top: 1vw;
+  color: #fff;
 }
 
 .page7-btn > button {
